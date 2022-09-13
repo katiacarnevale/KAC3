@@ -1,9 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 body {
-    background-color: black;
+    background-color: gray;
     }
-
 h1 {
         color: red;
         font-family:'Silkscreen',cursive;
@@ -33,4 +32,12 @@ p {
     font-family:'Roboto Mono', monospace;
     font-weight: 400;
     font-size:20px;
+}
+table {
+    background-color: aqua;
+}
+tr {
+    background-color: brown;
+}
+td { background-color: blueviolet;
 }
