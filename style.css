@@ -1,30 +1,35 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
-@import url("https://www.fontspace.com/minecraft-ten-font-f40317");
+@font-face {
+    font-family: 'minecraftmedium';
+    src: url('minecraft-webfont.woff2') format('woff2'),
+         url('minecraft-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 body {
     background-color: black;
     }
 
 h1 {
         color: red;
-        @import url("https://www.fontspace.com/minecraft-ten-font-f40317");
-        font-family: "Minecraft", monospace;
+        font-family: "minecraftmedium";
         font-size: 70px;
     }
 h2 {
     color: white;
-    font-family: "Minecraft", monospace;
+    font-family: "minecraftmedium";
     font-size: 40px;
     }
 h3 {
     color: rgb(43, 255, 0);
-    font-family: "Minecraft", monospace;
+    font-family: "minecraftmedium";
     font-size: 40px;
     writing-mode: vertical-rl;
     text-orientation: upright;
     }
 h4 {
     color: rgb(75, 75, 75);
-    font-family: "Minecraft", monospace;
+    font-family: "minecraftmedium";
     font-size: 30px;
     writing-mode: vertical-rl;
     text-orientation: upright;
