@@ -1,4 +1,6 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+</style>
 @font-face {
     font-family: 'minecraftmedium';
     src: url('minecraft-webfont.woff2') format('woff2'),
@@ -36,6 +38,6 @@ h4 {
     }
 p {
     color: white;
-    font-family: "Roboto Mono", "Regular", monospace;
+    font-family: "Roboto";
     font-size: 20px;
 }
