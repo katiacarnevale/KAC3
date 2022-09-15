@@ -20,7 +20,7 @@ h1 {
         100% {background-color: green;}
       }
 h2 {
-    color: white;
+    color:rgb(36, 36, 36);
     font-family:'Silkscreen', cursive;
     font-size:70px;
     }
@@ -28,8 +28,6 @@ h3 {
     color: rgb(43, 255, 0);
     font-family:'Silkscreen', cursive ;
     font-size:70px;
-    writing-mode: vertical-rl;
-    text-orientation: upright;
     }
 h4 {
     color: rgb(75, 75, 75);
@@ -45,6 +43,7 @@ p {
     font-size:30px;
 }
 
-.p3 {
-    margin-top: -300px;
+.pg1 {
+    height: 100vh;
 }
+
