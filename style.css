@@ -41,13 +41,6 @@ h3:hover {
     color: aqua;
 }
 
-h4 {
-    color: rgb(38, 38, 38);
-    font-family:'Silkscreen', cursive;
-    font-size: 80px;
-    writing-mode: vertical-rl;
-    text-orientation: upright;
-    }
 
 p {
     color: white;
